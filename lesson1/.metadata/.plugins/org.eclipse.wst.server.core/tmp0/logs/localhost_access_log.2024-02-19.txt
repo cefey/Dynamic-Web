@@ -1,0 +1,8 @@
+127.0.0.1 - - [19/Feb/2024:21:47:20 +0300] "GET / HTTP/1.1" 404 772
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:47:21 +0300] "GET /persons/views/header.jsp HTTP/1.1" 200 490
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:47:21 +0300] "GET /persons/views/images/employees.png HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:47:50 +0300] "GET /persons/views/header.jsp HTTP/1.1" 200 486
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:47:50 +0300] "GET /persons/views/images/employees.png HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:48:32 +0300] "GET /persons/index.jsp HTTP/1.1" 200 1816
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:48:32 +0300] "GET /persons/images/employees.png HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [19/Feb/2024:21:48:32 +0300] "GET /persons/css/bootstrap.min.css HTTP/1.1" 304 -
